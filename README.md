@@ -2,7 +2,6 @@
 
 A standalone playground for AI developer analytics: OpenAI usage, GitHub DevEx metrics, Cursor telemetry, cross-tool identity resolution, and a LangGraph supervisor agent with SQL-generating insights.
 
-No Opsera dependencies. No Okta. Simple API key auth.
 
 ## Architecture
 
